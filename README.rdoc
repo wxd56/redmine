@@ -7,3 +7,5 @@ More details can be found in the doc directory or on the official website http:/
 This is a copy!
 
 Just do sth. 
+
+V1.1
